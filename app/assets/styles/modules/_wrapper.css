@@ -10,6 +10,10 @@
         max-width: 975px;
     }
 
+    &--narrow {
+        max-width: 470px;
+    }
+
     &--no-padding-until-medium {
         padding-left: 0;
         padding-right: 0;
@@ -37,12 +41,6 @@
             margin-bottom: 3.875rem;
         }
         
-    }
-
-
-    .wrapper {
-        padding-left: 0;
-        padding-right: 0;
     }
 
 }
